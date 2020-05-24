@@ -1,3 +1,8 @@
+video - https://www.youtube.com/watch?v=wY0GqG_clDo
+slides - https://ildar107.github.io/Presentation/#/
+
+Transcription: 
+
 1. 
 
 Hi every one! My name is Ildar. Today we are gonna talk about RabbitMQ.
