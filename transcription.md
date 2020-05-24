@@ -1,3 +1,4 @@
+
 1. 
 
 Hi every one! My name is Ildar. Today we are gonna talk about RabbitMQ.
@@ -77,6 +78,7 @@ Let's make one simple "Hello World" example
 First install amnqp module.
 
 6.1
+
 In the sender part we need to requiere the library first. Then connect to RabbitMQ server.
 Next we create a channel, which is where most of the API for getting things done resides.
 To send, we must declare a queue for us to send to; then we can publish a message to the queue.
@@ -85,6 +87,7 @@ Lastly, we close the connection and exit.
 
 
 6.2
+
 That's it for our sending part. Our recieving part listens for messages from RabbitMQ, so unlike the sending part which publishes a single message, 
 we'll keep the recieving part running to listen for messages and print them out.
 
